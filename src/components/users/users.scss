@@ -1,0 +1,28 @@
+.fotos {
+  width: auto;
+  height: 100px;
+  margin: 10px;
+  border-radius: 100%;
+}
+
+.btn-follow {
+  width: 150px;
+  height: 30px;
+  margin: 10px;
+}
+.user{
+  display: flex;
+  justify-content: left;
+  .status{
+    margin: 5px;
+  }
+}
+.users{
+  margin: 10px;
+
+  
+}
+.active{
+  text-decoration: underline;
+  font-weight: bold;
+}
